@@ -26,7 +26,7 @@ def load_model():
 model = load_model()
 
 
-st.title("⚡ Electric Bill Prediction")
+st.title("Electricity Bill Predictor")
 
 st.write("Polynomial Regression Model")
 
